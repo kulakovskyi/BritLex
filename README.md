@@ -8,3 +8,5 @@
 </ul>
 
 <h1><h1>
+  
+<img src="https://github.com/kulakovskyi/BritLex/blob/main/readme-img/britlex.jpg" alt="site-image"/>
